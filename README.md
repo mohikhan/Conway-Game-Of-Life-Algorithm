@@ -22,5 +22,5 @@ I ran the program for 50 generations however, you can change the number of gener
 # Output-of-the-program
 The program ran for 50 generations and the first 3 generations are shown below. Alive cells are represented by 1 and dead cells are represented by 0. Note that the Universe state 0 is the initial state of the grid/universe.
 <p align="center">
-  <img width="400" height="300" src="/First 3 generations.png">
+  <img width="400" height="700" src="/First 3 generations.png">
 </p>
