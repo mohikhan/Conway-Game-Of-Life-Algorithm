@@ -1,6 +1,6 @@
 # Conway-Game-Of-Life-Algorithm
 The rules of the game are:
-The Game Of Life is a cellular automaton algorithm. It runs on a universe, which is two-dimensional a grid of cells. Each cell can be in two states: alive or dead. There is an initial state for the universe, which defines alive cells and their positions in the universe. The automaton progresses one step at a time by applying a set of rules to each cell in the universe. There rules are the following:
+The Game Of Life is a cellular automaton algorithm. It runs on a universe, which is two-dimensional a grid of cells. Each cell can be in two states: alive or dead. There is an initial state for the universe, which defines alive cells and their positions in the universe. The automation progresses one step at a time by applying a set of rules to each cell in the universe. There rules are the following:
 
 1) Any live cell with two or three live neighbors survives;
 2) Any dead cell with three live neighbors becomes a live cell;
@@ -20,7 +20,7 @@ I ran the program for 50 generations however, you can change the number of gener
 
 
 # Output-of-the-program
-The program ran for 50 generations and the first 3 generations are shown below. Alive cells are represented by 1 and dead cells are represented by 0. Note that the Universe state 0 is the initial state of the grid/universe with the glider pattern shown in the above picture.
+The program ran for 50 generations and the first 3 generations are shown below. Alive cells are represented by 1 and dead cells are represented by 0. Note that the Universe state 0 is the initial state of the grid/universe with the glider pattern.
 <p align="center">
   <img width="400" height="700" src="/First 3 generations.png">
 </p>
