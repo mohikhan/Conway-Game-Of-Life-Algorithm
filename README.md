@@ -5,3 +5,6 @@ The Game Of Life is a cellular automaton algorithm. It runs on a universe, which
 1) Any live cell with two or three live neighbors survives;
 2) Any dead cell with three live neighbors becomes a live cell;
 3) All other live cells die in the next generation. Similarly, all other dead cells stay dead.
+
+
+The universe was initially populated with a glider pattern and animate its progress.
