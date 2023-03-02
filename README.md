@@ -12,3 +12,15 @@ The universe was initially populated with a glider pattern and animate its progr
 <p align="center">
   <img width="400" height="300" src="/Glider pattern.png">
 </p>
+
+# Running-the-program
+To run the program, simply run the conway.cpp in any IDE you want. The number of rows and columns are 8 in this case, however you can edit it in the cpp file. 
+I ran the program for 50 generations however, you can change the number of generations in the global variable gen written globally.
+
+
+
+# Output-of-the-program
+The program ran for 50 generations and the first 3 generations are shown below. Alive cells are represented by 1 and dead cells are represented by 0. Note that the Universe state 0 is the initial state of the grid/universe.
+<p align="center">
+  <img width="400" height="300" src="/First 3 generations.png">
+</p>
