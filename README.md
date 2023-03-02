@@ -7,4 +7,8 @@ The Game Of Life is a cellular automaton algorithm. It runs on a universe, which
 3) All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
 
-The universe was initially populated with a glider pattern and animate its progress.
+The universe was initially populated with a glider pattern and animate its progress. The pattern is showed below:
+
+<p align="center">
+  <img width="400" height="300" src="/Glider pattern.png">
+</p>
